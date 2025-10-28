@@ -69,7 +69,10 @@ Game 2003 just ended!
 ```
 
 The agent runs inside the Pacman game display:
-
+<p align="center">
+  <img src="assets\pacman-smallgrid-demo.gif" alt="Pacman Gameplay Demo" width="350"><br>
+  <em>Q-Learning Agent Gameplay</em>
+</p>
 ![Pacman SmallGrid Game Demo](assets\pacman-smallgrid-demo.gif)
 
 3. Summary
