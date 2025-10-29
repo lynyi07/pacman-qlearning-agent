@@ -32,7 +32,7 @@ cd pacman-qlearning-agent
 2. Train the agent and execute test episodes:
 ```bash
 python3 pacman.py -p QLearnAgent -x 2000 -n 2010 -l smallGrid
-
+```
 
 ### Explanation:
 - First 2000 episodes: training (no GUI)
